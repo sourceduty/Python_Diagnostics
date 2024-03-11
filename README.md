@@ -1,4 +1,4 @@
-![Python](https://github.com/sourceduty/Python-Diagnostics/assets/123030236/84ea4f3e-06a7-429e-8dca-f8f765b7d6a6)
+![Python Diagnostics](https://github.com/sourceduty/Python_Diagnostics/assets/123030236/95bd27cb-c388-4b6f-9cf3-8ca0b1540a53)
 
 [Python Diagnostics](https://chat.openai.com/g/g-NnT93PRw6-python-diagnostics) specializes in analyzing the functionality of Python code. It focuses on evaluating the code's performance and structure by looking into aspects like the efficiency and effectiveness of algorithms, identifying potential bottlenecks, and assessing the overall design quality. Key tasks include:
 
